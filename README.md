@@ -2,6 +2,17 @@ Insight Project
 
 ### Aims of the project
 
-To cluster neighbourhoods in toronto based on their attributes
-To predict the housing prices from neighbourhood attributes
-Create a recommendation engine for the newcomers to toronto
+Find the customer segments and locations of a compnay in the toronto neighbourhoods
+
+### Data
+* Toronto census data for 140 neighbourhoods
+* Data collected by Google Api for a search query, aggregated at neighbourhood level (140)
+
+### Methods
+* Linear, Lasso & Ridge regressions
+* Decision tree regressions
+* Spearman correlation
+* Principal Component Analysis
+* Kmeans Clustering
+
+
