@@ -2,7 +2,7 @@ Insight Project
 
 ### Aims of the project
 
-Find the customer segments and locations of a compnay in the toronto neighbourhoods
+Find the customer segments and locations of a company in the toronto neighbourhoods
 
 ### Data
 * Toronto census data for 140 neighbourhoods
@@ -15,4 +15,5 @@ Find the customer segments and locations of a compnay in the toronto neighbourho
 * Principal Component Analysis
 * Kmeans Clustering
 
-
+### Web App
+Accepts a search query ('chinese restaurants) & output is different clusters on the map of toronto based on the important features 
