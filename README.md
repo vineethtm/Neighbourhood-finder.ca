@@ -18,4 +18,9 @@ Identify the population segments and locations in toronto for a business
 * Kmeans Clustering
 
 ### Web App
-Accepts a search query ('chinese restaurants) & output is different clusters on the map of toronto based on the important features 
+http://neighbourhood-finder.ca
+
+App accepts a search query ('chinese restaurant') & Outputs are
+* Favourable clusters for the business
+* Toronto neighbourhoods colored based on cluster membership & number of businesses in each neighbourhood
+* Distribution of important features in different clusters
