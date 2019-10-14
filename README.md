@@ -17,6 +17,12 @@ Identify the population segments and locations in toronto for a business
 * Principal Component Analysis
 * Kmeans Clustering
 
+### Pipeline
+
+![](images/Slide07.jpg)
+
+
+
 ### Web App
 http://neighbourhood-finder.ca
 
@@ -25,5 +31,10 @@ App accepts a search query ('chinese restaurant') & Outputs are
 * Toronto neighbourhoods colored based on cluster membership & number of businesses in each neighbourhood
 * Distribution of important features in different clusters
 
-![Pipeline]
-(https://github.com/vineethtm/insight-project/tree/master/images/Slide07.jpg)
+### Output
+#### What are the best clusters of neighbourhoods ?
+![](images/1.plot.png)
+#### Where are the best clusters?
+![](images/2.plot.png)
+#### What features best represent each cluster?
+![](images/3.plot.png)
