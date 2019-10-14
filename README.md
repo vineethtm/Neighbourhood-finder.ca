@@ -24,3 +24,6 @@ App accepts a search query ('chinese restaurant') & Outputs are
 * Favourable clusters for the business
 * Toronto neighbourhoods colored based on cluster membership & number of businesses in each neighbourhood
 * Distribution of important features in different clusters
+
+![Pipeline]
+(https://github.com/vineethtm/insight-project/tree/master/images/Slide07.jpg)
