@@ -1,0 +1,17 @@
+name,filename
+iranian restaurant,iranian_rest_dict.npy
+portugese restaurant,portugese_rest_dict.npy
+chinese restaurant,chinese_rest_dict.npy
+hungarian restaurant,hungarian_rest_dict.npy
+polish restaurant,polish_rest_dict.npy
+korean restaurant,korean_rest_dict.npy
+turkish restaurant,turkish_rest_dict.npy
+caribbean restaurant,caribbean_rest_dict.npy
+srilankan restaurant,srilankan_rest_dict.npy
+latin restaurant,latin_rest_dict.npy
+pakistani restaurant,pakistani_rest_dict.npy
+indian restaurant,indian_rest_dict.npy
+italian restaurant,italian_rest_dict.npy
+vietnamese restaurant,vietnamese_rest_dict.npy
+greek restaurant,greek_rest_dict.npy
+french restaurant,french_rest_dict.npy
