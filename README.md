@@ -1,4 +1,4 @@
-## Insight Project
+## neighbourhood-finder.ca
 
 This is a three-week project I did as a Data Science Fellow at Insight Toronto.
 
